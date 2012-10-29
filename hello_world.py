@@ -1,3 +1,6 @@
+# IMPERATIVE DECLERATION
+
+
 # WSGI protocol to connect an application and a web server together.
 from wsgiref.simple_server import make_server
 # The script imports the configurator class from the pyramid.congfig module.
